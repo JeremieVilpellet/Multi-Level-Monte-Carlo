@@ -1,7 +1,6 @@
 ### Multi Level Monte Carlo 
 
 """ All results are based on the notebook are based on the paper in this repo """
-""" Project made alone """
 
 In this project, we present the classical Monte Carlo method and discuss its principles and limitations. 
 
